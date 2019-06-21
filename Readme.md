@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to customize a check box column
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4096/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to customize ASPxCheckBox and GridViewDataCheckColumn if database data is kept in a format different from Boolean.</p>
